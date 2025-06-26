@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e77de3c5-bc54-40b4-b28e-0891f53a5aec}">
+		<property name="assetPath">
+			<value>SFX/SpaceShipFlight/Spaceship Flight 1.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3583673469387756</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7a67860a-3260-453e-badc-1c577e843e26}</destination>
+		</relationship>
+	</object>
+</objects>

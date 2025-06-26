@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{256142ef-8ac5-4e1f-bedd-93abf5032d65}">
+		<property name="assetPath">
+			<value>SFX/TakePowerUP/SUCCESS PICKUP Collect Beep 13.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.71845804988662132</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7a67860a-3260-453e-badc-1c577e843e26}</destination>
+		</relationship>
+	</object>
+</objects>
